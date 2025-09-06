@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "madical pro", "madical pro\madical pro.csproj", "{158BCD09-A5D4-4B3D-A9E5-F7BA7749E0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158BCD09-A5D4-4B3D-A9E5-F7BA7749E0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158BCD09-A5D4-4B3D-A9E5-F7BA7749E0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158BCD09-A5D4-4B3D-A9E5-F7BA7749E0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158BCD09-A5D4-4B3D-A9E5-F7BA7749E0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {776F0373-E226-4C00-BE10-233904B0C881}
+	EndGlobalSection
+EndGlobal
